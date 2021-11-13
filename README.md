@@ -8,5 +8,6 @@ Expect bad things to happen while its being worked on, for example-
 - Poor cellphone reception
 - Global warming
 - Rampant inflation
-- Global pandemic
+- Pandemic
+- Cats & dogs living together
 - Website may be broken
