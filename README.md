@@ -19,3 +19,7 @@ Those paying attention may notice the 'ycash.cl' domain, which is the country-le
 The domain does not belong to the Ycash Foundation & everything hosted on it is unofficial.
 
 I hereby grant the Ycash Foundation authority over my use of the 'ycash.cl' domain & will take it down on their request.
+
+# Donation Address 
+
+![Alt text](blob/main/explorer_yaddr.png?raw=true "Donation Address")
