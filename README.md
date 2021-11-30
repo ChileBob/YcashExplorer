@@ -22,4 +22,7 @@ I hereby grant the Ycash Foundation authority over my use of the 'ycash.cl' doma
 
 # Donation Address 
 
-![Alt text](blob/main/explorer_yaddr.png?raw=true "Donation Address")
+<img src="/explorer_yaddr.png" alt="Donation Address"/>
+
+Just in case you want to support this explorer, scan with Ywallet & send some YEC :-)
+
