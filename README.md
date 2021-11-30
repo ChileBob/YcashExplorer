@@ -12,6 +12,11 @@ Expect bad things to happen while its being worked on, for example-
 - Cats & dogs living together
 - Website may be broken
 
+Just in case you want to support this explorer, scan with Ywallet & send some YEC :-)
+
+<img src="/explorer_yaddr.png" alt="Donation Address"/>
+
+
 # Important !
 
 Those paying attention may notice the 'ycash.cl' domain, which is the country-level domain for Chile.
@@ -20,9 +25,5 @@ The domain does not belong to the Ycash Foundation & everything hosted on it is 
 
 I hereby grant the Ycash Foundation authority over my use of the 'ycash.cl' domain & will take it down on their request.
 
-# Donation Address 
 
-<img src="/explorer_yaddr.png" alt="Donation Address"/>
-
-Just in case you want to support this explorer, scan with Ywallet & send some YEC :-)
 
