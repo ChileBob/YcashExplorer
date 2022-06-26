@@ -12,7 +12,7 @@ Expect bad things to happen while its being worked on, for example-
 - Cats & dogs living together
 - Website may be broken
 
-Just in case you want to support this explorer, scan with Ywallet & send some YEC :-)
+Just in case you want to support this explorer, here's the donation address :-)
 
 ys1hs5nmtzjjsccp6x6dgueu8ftrv3nhnhs0l85m6t7lflut9dfgkedh8c5wlsg9454yavusj4muhf
 
