@@ -14,8 +14,7 @@ Expect bad things to happen while its being worked on, for example-
 
 Just in case you want to support this explorer, scan with Ywallet & send some YEC :-)
 
-<img src="/explorer_yaddr.png" alt="Donation Address"/>
-
+ys1hs5nmtzjjsccp6x6dgueu8ftrv3nhnhs0l85m6t7lflut9dfgkedh8c5wlsg9454yavusj4muhf
 
 # Important !
 
